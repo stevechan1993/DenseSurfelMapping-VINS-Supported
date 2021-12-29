@@ -1,5 +1,9 @@
 # DenseSurfelMapping
 
+This is a modified DenseSurfelMapping for depth maps fusion with known camera intrinsic and extrinsic parameters. You can use it to fuse the ouput from VINS-Mono. 
+
+==========
+
 **WARNING!**
 
 **We have cleaned the code such that it can run without GPU acceleration. The code have not been fully tested after the refactoring. If you have any questions or suggestions, please let us know in the issue.**
